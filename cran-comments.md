@@ -12,4 +12,4 @@ There were no ERRORs or WARNINGs. There is one note because the java directory i
 
 ## Downstream dependencies
 
-There are no downstream dependencies.
+There are currently no downstream dependencies. When this package is accepted in CRAN, we will submit the DatabaseConnector package which requires this package.
