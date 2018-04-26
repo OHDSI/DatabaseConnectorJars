@@ -1,0 +1,10 @@
+extras
+bin
+^.*\.Rproj$
+^\.Rproj\.user$
+^\.travis\.yml$
+deploy.sh
+.classpath
+.project
+compare_versions
+^cran-comments.md$
