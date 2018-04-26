@@ -8,7 +8,7 @@ I'm putting the JAR dependencies of the DatabaseConnector package into this sepa
 
 ## R CMD check results
 
-There were no ERRORs or WARNINGs. There is one note because the java directory is 15.8Mb.
+There were no ERRORs or WARNINGs. There is one note because the java directory is 15.2Mb.
 
 ## Downstream dependencies
 
