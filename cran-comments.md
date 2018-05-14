@@ -4,6 +4,8 @@ Indeed, we expect the jar files in this package to stay fairly constant over tim
 
 Redistributing these jar libraries without modifications would be consistent with their respective licenses.
 
+Added single quotes to 'DatabaseConnector' in Title and Description.
+
 ---
 
 ## Test environments

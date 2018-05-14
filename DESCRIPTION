@@ -1,6 +1,6 @@
 Package: DatabaseConnectorJars
 Type: Package
-Title: JAR Dependencies for the DatabaseConnector Package
+Title: JAR Dependencies for the 'DatabaseConnector' Package
 Version: 1.0.0
 Date: 2018-04-26
 Authors@R: c(
@@ -13,7 +13,7 @@ Authors@R: c(
     person("Oracle Inc.", role = c("cph"), comment = "Oracle  JDBC driver"),
     person("Amazon Inc.", role = c("cph"), comment = "RedShift  JDBC driver")
   )
-Description: Provides external JAR dependencies for the DatabaseConnector package.
+Description: Provides external JAR dependencies for the 'DatabaseConnector' package.
 Imports:
     rJava
 License: Apache License
