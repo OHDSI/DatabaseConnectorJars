@@ -1,6 +1,9 @@
 DatabaseConnectorJars
 =====================
 
+[![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/DatabaseConnectorJars)](https://cran.r-project.org/package=DatabaseConnectorJars)
+[![CRAN_Status_Badge](http://cranlogs.r-pkg.org/badges/DatabaseConnectorJars)](https://cran.r-project.org/package=DatabaseConnectorJars)
+
 Introduction
 ============
 This R package contains the external JAR dependencies of the DatabaseConnector package. It contains no user-executable functions.
