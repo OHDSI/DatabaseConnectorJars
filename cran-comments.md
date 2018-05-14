@@ -1,4 +1,8 @@
-I'm putting the JAR dependencies of the DatabaseConnector package into this separate package, as suggested in the CRAN Repository Policy.
+Referencing our e-mail discussion with title "Re: How to submit 'data packages' to CRAN?"
+
+Indeed, we expect the jar files in this package to stay fairly constant over time, and not require frequent updates. 
+
+Redistributing these jar libraries without modifications would be consistent with their respective licenses.
 
 ---
 
