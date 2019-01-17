@@ -8,7 +8,3 @@ deploy.sh
 .project
 compare_versions
 ^cran-comments.md$
-.idea
-.DS_Store
-^.*\.iml$
-hive-jdbc-driver/target
