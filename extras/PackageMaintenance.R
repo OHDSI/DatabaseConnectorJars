@@ -26,6 +26,9 @@ shell("rm extras/DatabaseConnectorJars.pdf")
 shell("R CMD Rd2pdf ./ --output=extras/DatabaseConnectorJars.pdf")
 
 # Release package:
-devtools::build_win()
+devtools::check_win_devel()
+
+devtools::check_rhub()
 
 devtools::release()
+

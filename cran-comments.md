@@ -1,16 +1,10 @@
-Referencing our e-mail discussion with title "Re: How to submit 'data packages' to CRAN?"
-
-Indeed, we expect the jar files in this package to stay fairly constant over time, and not require frequent updates. 
-
-Redistributing these jar libraries without modifications would be consistent with their respective licenses.
-
-Added single quotes to 'DatabaseConnector' in Title and Description.
+Several driver updates (see NEWS.md)
 
 ---
 
 ## Test environments
-* Ubuntu 14.04.5 LTS (Travis), R 3.4.4
-* Windows 7, R 3.4.4
+* Ubuntu 14.04.5 LTS (Travis), R 3.5.0
+* Windows 7, R 3.5.1
 
 ## R CMD check results
 
@@ -18,4 +12,4 @@ There were no ERRORs or WARNINGs. There is one note because the java directory i
 
 ## Downstream dependencies
 
-There are currently no downstream dependencies. When this package is accepted in CRAN, we will submit the DatabaseConnector package which requires this package.
+- DatabaseConnector depends on DatabaseConnectorJars, and has been tested with this new version. No problems were found.
