@@ -1,3 +1,19 @@
+DatabaseConnectorJars 1.2.0
+===========================
+
+Changes: 
+
+1. Updated RedShift driver
+
+2. Updated PostgreSQL driver
+
+3. Updated Oracle driver
+
+4. Updated SQL Server driver
+
+5. All drivers now adhere to JDBC 4.2. Increasing required Java version to 1.8
+
+
 DatabaseConnectorJars 1.1.0
 ===========================
 

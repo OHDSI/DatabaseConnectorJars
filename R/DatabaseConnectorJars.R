@@ -16,9 +16,9 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-#' DatabaseConnectorJars
-#'
-#' @docType package
+#' @keywords internal
+"_PACKAGE"
+
 #' @name DatabaseConnectorJars
 NULL
 
@@ -27,6 +27,6 @@ NULL
   javaVersion <- rJava::.jcall("java/lang/System", "S", "getProperty", "java.runtime.version")
   if(substr(javaVersion, 1L, 2L) == "1.") {
     javaVersionNumber <- as.numeric(paste0(strsplit(javaVersion, "[.]")[[1L]][1:2], collapse = "."))
-    if(javaVersionNumber < 1.6) stop("Java 6 or higher is needed for this package")
+    if(javaVersionNumber < 1.8) stop("Java 8 or higher is needed for this package")
   }
 }
