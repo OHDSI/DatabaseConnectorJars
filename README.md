@@ -29,7 +29,7 @@ User Documentation
 Support
 =======
 * Developer questions/comments/feedback: <a href="http://forums.ohdsi.org/c/developers">OHDSI Forum</a>
-* We use the <a href="../../issues">GitHub issue tracker</a> for all bugs/issues/enhancements
+* We use the <a href="https://github.com/OHDSI/DatabaseConnectorJars/issues">GitHub issue tracker</a> for all bugs/issues/enhancements
 
 License
 =======
