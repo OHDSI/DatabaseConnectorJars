@@ -2,7 +2,7 @@ Package: DatabaseConnectorJars
 Type: Package
 Title: JAR Dependencies for the 'DatabaseConnector' Package
 Version: 1.2.0
-Date: 2020-10-30
+Date: 2020-11-10
 Authors@R: c(
     person("Martijn", "Schuemie", email = "schuemie@ohdsi.org", role = c("aut", "cre")),
     person("Marc", "Suchard", role = c("aut")),

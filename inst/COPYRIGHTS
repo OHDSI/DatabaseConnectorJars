@@ -2,7 +2,7 @@ The package DatabaseConnector includes other software components. The following 
 
 ** Microsoft SQL Server JDBC driver
 
-   Copyright © 2017: Microsoft Inc.
+   Copyright © 2020: Microsoft Inc.
 
    Microsoft and Microsoft SQL Server are trademarks of Microsoft.
 
@@ -24,7 +24,7 @@ The package DatabaseConnector includes other software components. The following 
    
 ** Oracle JDBC driver
 
-   Copyright © 2018: Oracle Inc.
+   Copyright © 2020: Oracle Inc.
 
    Oracle is a trademark of Oracle Inc.
 
@@ -35,7 +35,7 @@ The package DatabaseConnector includes other software components. The following 
    
 ** RedShift JDBC driver
 
-   Copyright © 2018: Amazon Inc.
+   Copyright © 2020: Amazon Inc.
 
    Amazon and RedShift are trademarks of Amazon Inc.
 
@@ -44,5 +44,5 @@ The package DatabaseConnector includes other software components. The following 
    
    Observational Health Data Sciences and Informatics has been granted permission to include the RedShift JDBC driver in the open source DatabaseConnector package. Contact the package maintainer for details.
 
-   Related JARs: RedshiftJDBC*.jar
+   Related JARs: RedshiftJDBC*.jar, aws-*.jar, common-*.jar, antlr*.jar, httpclient*.jar, jackson*.jar, joda*.jar log4j*.jar
    
