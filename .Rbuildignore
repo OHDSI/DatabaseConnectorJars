@@ -8,3 +8,4 @@ deploy.sh
 .project
 compare_versions
 ^cran-comments.md$
+docs
